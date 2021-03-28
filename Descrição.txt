@@ -1,0 +1,14 @@
+CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT
+
+*converte dolar em real
+
+Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções alert e prompt para trocar nossas primeiras mensagens na tela com o usuário.
+
+Conteúdo detalhado:
+
+Entender as diferenças entre HTML, CSS e JavaScript;
+Exibir mensagens na tela com alert();
+Variáveis, manipulação dos valores armazenados e a memória do computador;
+Tipos de variáveis, como texto e inteiro;
+Fixando a quantidade de casas decimais com a função toFixed();
+Converter um tipo texto (string) em decimal (float) com a função parseFloat().
